@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm a passionate full-stack developer who loves building scalable web applications, working with cloud platforms, and contributing to open-source projects.
 
 - 🔭 Currently working on: Full-stack projects using **PERN Stack** and **Next.js**.
-- 🌱 Learning more about: **Azure Cloud**, **CI/CD pipelines**, and **Docker**
+- 🌱 Learning more about: **Azure Cloud**, **CI/CD pipelines**, **Microservices & Messaging Queues** and **Docker**
 - 👯 Looking to collaborate on: Cloud-native apps, microservices architecture, and interesting open-source projects
 - 💬 Ask me about: Full-stack development, **React**, **Node.js**, **Azure**,**Next.js**, **Docker**, or **DevOps**
 - ⚡ Fun fact: I love combining cloud computing with software development to solve real-world problems

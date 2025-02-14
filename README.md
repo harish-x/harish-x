@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves bu
 ![image](https://github.com/user-attachments/assets/bf19b0d1-969f-443c-9d6a-0da794f316a6) 
 ![image](https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000)
 ![node.js](https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000)
-![express](https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000)
 <img src="https://pics.freeicons.io/uploads/icons/png/6158480871552037069-512.png" width=100 height=100/>
 ![MongoDb](https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000)
 ![MySQL](https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000)

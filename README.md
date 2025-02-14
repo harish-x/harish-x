@@ -14,8 +14,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves bu
 
 ### 🛠️ Tech Stack
  
-![html](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
-![image](https://github.com/user-attachments/assets/abf7cebe-4c5b-4cd5-b22b-b267688151b6)
+
 ![javascript](https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000)
 ![image](https://github.com/user-attachments/assets/bf19b0d1-969f-443c-9d6a-0da794f316a6) 
 ![image](https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000)

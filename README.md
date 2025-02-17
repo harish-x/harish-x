@@ -25,9 +25,14 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves bu
 ![PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)
 ![Docker](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000)
 ![Azure](https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000)
-<img src="https://github.com/user-attachments/assets/d39da25f-6c04-46a3-8455-30961a8be5c8" alt="" width=90/>
+<img src="https://github.com/user-attachments/assets/d39da25f-6c04-46a3-8455-30961a8be5c8" alt="" width=100/>
+<img src="https://github.com/user-attachments/assets/92d78c16-4f1f-438a-96b7-f7cabf3c4670" alt="" width=100/>
+<img src="https://github.com/user-attachments/assets/0befd5a3-b4d1-44ef-ac37-845895d6ec05" alt="" width=100/>
+<img src="https://github.com/user-attachments/assets/08dab477-0553-4774-a0d9-4a8f15cf9b67" alt="" width=100/>
+
 
 ---
+
 
 ### 📈 GitHub Stats
 

@@ -38,9 +38,9 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer who loves bu
 
 ### 📈 GitHub Stats
 
-![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harish-x&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=harish-x&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="harish-x's GitHub Stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-x&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish-x&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="harish-x's GitHub Stats" />
 
 ---
 

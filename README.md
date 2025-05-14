@@ -1,16 +1,17 @@
 # Hello, I'm Harish! 👋
 
-### Full-Stack Developer | Cloud Enthusiast | Open Source Contributor
+### Backend Developer | Golang Enthusiast | Distributed Systems & Cloud
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer who loves building scalable web applications, working with cloud platforms, and contributing to open-source projects.
+Welcome to my GitHub! I'm a backend-focused developer passionate about building scalable systems, microservices architecture, cloud-native tools, and contributing to open-source projects.
 
-- 🔭 Currently working on: Full-stack projects using **PERN Stack** and **Next.js**.
-- 🌱 Learning more about: **Azure Cloud**, **CI/CD pipelines**, **Microservices & Messaging Queues** and **Docker**
-- 👯 Looking to collaborate on: Cloud-native apps, microservices architecture, and interesting open-source projects
-- 💬 Ask me about: Full-stack development, **React**, **Node.js**, **Azure**,**Next.js**, **Docker**, or **DevOps**
-- ⚡ Fun fact: I love combining cloud computing with software development to solve real-world problems
+- 🔭 Currently building: **Distributed microservices** using **Golang**, **gRPC**, **Kafka**, and **Docker**
+- 🌱 Learning more about: **Cloud infrastructure (Azure & AWS)**, **service discovery**, and **system design**
+- 👯 Looking to collaborate on: Large-scale backend systems, **event-driven architectures**, and **cloud-native platforms**
+- 💬 Ask me about: **Golang**, **PostgreSQL**, **Kafka**, **Docker**, **Kubernetes**, and cloud DevOps
+- ⚡ Fun fact: I love designing resilient systems that scale — even under failure or network partitions
 
 ---
+
 
 ### 🛠️ Tech Stack
  

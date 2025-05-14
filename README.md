@@ -1,6 +1,6 @@
 # Hello, I'm Harish! 👋
 
-### Backend Developer | Golang Enthusiast | Distributed Systems & Cloud
+### Backend Developer | Open Source Contributor | Distributed Systems & Cloud
 
 Welcome to my GitHub! I'm a backend-focused developer passionate about building scalable systems, microservices architecture, cloud-native tools, and contributing to open-source projects.
 

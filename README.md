@@ -152,9 +152,11 @@ func main() {
 
 <div align="center">
 
+[![portfolio](https://img.shields.io/badge/Portfolio-harish-767?style=for-the-badge&logo=user&logoColor=white)](https://harish-r.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harish_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-r-489aa81ba/)
 [![Gmail](https://img.shields.io/badge/Gmail-harishr9344-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishr9344@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-harish9344-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harish9344)
+
 
 </div>
 
